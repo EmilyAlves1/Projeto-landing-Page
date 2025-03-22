@@ -30,7 +30,8 @@ body{
 }
 
 .imagem-cabecalho{
-    height: 72px;
+    height: auto;
+    max-width: 100%;
 }
 
 .menu-cabecalho{
